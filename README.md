@@ -1,13 +1,18 @@
 # TikTok AutoRegistration
 Autoregister tiktok accounts, works via WEB. 
 
-Registration speed 1.5 minutes
-requires absolutely any mail (which you want and use)
-works through the web version
-Ability to run in the hide mode (will not interfere with you)
+Registration speed 1.5 minutes 
+
+Requires absolutely any mail (which you want and use)(need imap ON)
+
+Ability to run in the hide mode (will not interfere with you)(headless mode)
+
 Ability to run on servers/VPS
+
 Works on regular proxies / with ip change
+
 There is multithreading (increases the number of accounts for n period of time) depending on the proxy and is limited only by the characteristics of the computer
+
 CAPCHA SOLVER IN SCRIPT!!!
 
 Also there is an opportunity to fill out the profile, namely:
